@@ -86,7 +86,7 @@ The graph indicates that prostate cancer had the highest number of diagnoses, al
 
 ###### Sickling Test
 A major concern in the lab tests is the rising trend of sickle cell cases. The prevalence of the condition appears to be signifi cant, signaling the need for increased attention and intervention.
-![sickling test](image-18.png)
+![sickling test](https://drive.google.com/file/d/1l4V3qxm-VlGyaiPfhhHu7LZq1RlRgV5b/view?usp=sharing)
 Figure 14: Sickling Test Trend
 There is a need for greater investment in public awareness and expanded screening eff orts to address the growing concern of sickle cell disease.
 
